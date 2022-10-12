@@ -1,4 +1,4 @@
-const fileOne = {
+const fileTwo = {
     "profile": "Profiel",
     "stepper_back": "Terug",
     "stepper_next": "Volgende",
